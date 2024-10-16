@@ -1,0 +1,2 @@
+# ganirepo
+my first repo
